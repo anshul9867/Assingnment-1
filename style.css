@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    background-color:#d7e7f4;
+}
+.page{
+    background-color:#ffffff;
+    position: relative;
+    height: 51vw;
+    margin: auto;
+    width: 954px;
+}
+.img{
+    padding-top: 6px;
+    padding-left: 22px;
+}
+.right{
+    position: relative;
+    float: right;
+    padding-right: 22px;
+    padding-top: -20vh;
+    margin-top: -57px;
+}
+#link{
+    color: #007BAF;
+    padding-left: 19vh;
+
+}
+.line{
+    border: 1px solid black;
+    margin-top: 80px;
+}
+.input{
+    padding-top:10px ;
+}
+
